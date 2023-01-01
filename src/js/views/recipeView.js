@@ -1,6 +1,6 @@
 import View from './View.js';
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional'; // library used to convert numbers to fractions ( 0.5 => 1/2 )
+import Fraction from 'fraction.js'; // library used to convert numbers to fractions ( 0.5 => 1/2 )
 
 class RecipeView extends View {
   _parentElement = document.querySelector('.recipe');

@@ -5,8 +5,6 @@
 ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -18,8 +16,6 @@
 
   <p align="center">
     <a href="https://modern-forkify.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/ahmedalam98/Forkify/issues">Report Bug</a>
   </p>
 </div>
 
@@ -82,7 +78,7 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 - Babel
 - Forkify API
 - Libraries
-  - fractional
+  - fraction.js
 
 ---
 
@@ -110,7 +106,7 @@ This project require some prequesites and dependenscies to be installed, you can
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmedalam98/Forkify.git
+   git clone https://github.com/addobentil/Forkify.git
    ```
 2. Go to project folder
 
@@ -176,23 +172,6 @@ forkify
             _searchResults.scss
             _upload.scss
 ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
