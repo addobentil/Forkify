@@ -15,7 +15,7 @@
   <h1 align="center">Forkify</h1>
 
   <p align="center">
-    <a href="https://modern-forkify.vercel.app/">View Demo</a>
+    <a href="https://forkify-bentil.netlify.app">View Demo</a>
   </p>
 </div>
 
