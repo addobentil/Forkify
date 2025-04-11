@@ -39,7 +39,6 @@
         <li><a href="#tree-structure">Tree Structure</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
